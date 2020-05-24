@@ -1,0 +1,11 @@
+C:\Users\gb616\source\repos\merge\merge\obj\Debug\netcoreapp2.0\merge.csprojResolveAssemblyReference.cache
+C:\Users\gb616\source\repos\merge\merge\obj\Debug\netcoreapp2.0\merge.csproj.CoreCompileInputs.cache
+C:\Users\gb616\source\repos\merge\merge\obj\Debug\netcoreapp2.0\merge.AssemblyInfoInputs.cache
+C:\Users\gb616\source\repos\merge\merge\obj\Debug\netcoreapp2.0\merge.AssemblyInfo.cs
+C:\Users\gb616\source\repos\merge\merge\bin\Debug\netcoreapp2.0\merge.deps.json
+C:\Users\gb616\source\repos\merge\merge\bin\Debug\netcoreapp2.0\merge.runtimeconfig.json
+C:\Users\gb616\source\repos\merge\merge\bin\Debug\netcoreapp2.0\merge.runtimeconfig.dev.json
+C:\Users\gb616\source\repos\merge\merge\bin\Debug\netcoreapp2.0\merge.dll
+C:\Users\gb616\source\repos\merge\merge\bin\Debug\netcoreapp2.0\merge.pdb
+C:\Users\gb616\source\repos\merge\merge\obj\Debug\netcoreapp2.0\merge.dll
+C:\Users\gb616\source\repos\merge\merge\obj\Debug\netcoreapp2.0\merge.pdb
